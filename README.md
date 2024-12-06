@@ -33,7 +33,7 @@ Welcome to the **Linana Kreations** dressmaking website! This platform highlight
 
 To run this project, ensure you have the following installed:
 
-- Node.js (>= 14.x)
+- Node.js
 - npm (or yarn)
 
 ### Installation
